@@ -4,6 +4,10 @@
     margin-bottom: 25px;
 }
 
+.row > h2{
+    font-size: 18px;
+}
+
 .row__posters{
     display: flex;
     overflow-y: hidden;

@@ -12,7 +12,7 @@ const Profile = () => {
     <div className="profile">
       <Navbar />
       <div className="profile__body">
-        <h1>Edit Profile</h1>
+        <h2>Edit Profile</h2>
         <div className="profile__info">
           <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yQFL1YOsN3esm6p1jB1HT-Q6qKtxtZqh9LGwMDIgDCy-p54eMf8jdGSN6yZUeySqseA&usqp=CAU"
